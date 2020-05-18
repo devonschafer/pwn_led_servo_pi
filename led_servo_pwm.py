@@ -81,4 +81,5 @@ try:
         
 except KeyboardInterrupt:
     p.stop()
+    q.stop()
     GPIO.cleanup()
