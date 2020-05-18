@@ -1,4 +1,4 @@
-#This code uses python3. Be sure to adapt this coe for python2, or just use python3 :).
+#This code uses python3. Be sure to adapt this code for python2, or just use python3 :).
 #This code runs on Raspberry Pi.
 
 #import RPi.GPIO module.
